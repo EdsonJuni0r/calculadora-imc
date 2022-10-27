@@ -44,6 +44,7 @@ main{
     outline: 0;
     font: bold 1.5rem serif;
     text-align: center;
+    color: rgb(37, 46, 86);
 }
 
 .input label{
