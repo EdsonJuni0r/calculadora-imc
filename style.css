@@ -15,7 +15,7 @@ main{
     align-items: center;
     justify-content: space-evenly;
     border-radius: 20px;
-    box-shadow: 0 0 10px rgb(43, 59, 69);
+    box-shadow: 0 5 10px rgb(43, 59, 69);
 }
 
 .title{
@@ -44,6 +44,7 @@ main{
     outline: 0;
     font: bold 1.5rem serif;
     text-align: center;
+    color: rgb(37, 46, 86);
 }
 
 .input label{
